@@ -4,7 +4,6 @@ Narxoz College Student in Kazakhstan<br><br>💻 Software Developer  <br>🚀 In
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skr_lkhn) 
-[![Gmail](https://img.shields.io/badge/Gmail-c71610?logo=gmail&logoColor=white)](mailto:aaskar@college-narxoz.kz) 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/Alikhandrooy) 
 
 # 💻 Tech Stack:
