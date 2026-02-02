@@ -1,5 +1,5 @@
 # 💫 About Me:
-Narxoz College Student in Kazakhstan<br><br>💻 Software Developer  <br>🚀 Interested in web & mobile development  <br>📚 Always learning something new
+NARXOZ College Student in Kazakhstan<br><br>💻 Software Developer  <br>🚀 Interested in web & mobile development  <br>📚 Always learning something new
 
 
 ## 🌐 Socials:
